@@ -1,6 +1,6 @@
 Nom-Prénom
+Gilles B
 BARNEOUD Paul branch-pb
-Gilles
 OURCH-Michael
 MOSCA-Alessandro
 Gaunet Sylvain
